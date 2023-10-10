@@ -4,10 +4,11 @@
 <p align="center">Eu amo resolver grandes desafios usando tecnologia. <br><br> Sou iniciante em desenvolvimento backend usando Flask, <strong>sou apaixonado por descobrir coisas novas </strong>e usá-las para criar soluções de alta qualidade. <strong>embarcando em minha jornada como desenvolvedor full stack</strong> , ansioso para aprender e crescer na área.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?MMatteuss=anuraghazra&show_icons=true&theme=dark" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?MMatteuss=anuraghazra&layout=compact" />
-  
- </div>
+  <a href="https://github.com/MMatteuss">
+    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=MMatteuss&show_icons=true&theme=dark" />
+    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMatteuss&layout=compact" />
+  </a>
+</div>
  
  &nbsp;
  &nbsp;
