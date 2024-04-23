@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Mateus Monteiro 👋
 
 
-<p align="center">Eu amo resolver grandes desafios usando tecnologia. <br><br> Sou iniciante em desenvolvimento back-end e mobile, <strong>sou apaixonado por descobrir coisas novas </strong>e usá-las para criar soluções de alta qualidade. <strong>embarcando em minha jornada como desenvolvedor Android</strong> , ansioso para aprender e crescer na área.</p>&nbsp;
+<p align="center">Eu amo resolver grandes desafios usando tecnologia. <br><br> Sou iniciante em desenvolvimento back-end, <strong>sou apaixonado por descobrir coisas novas </strong>e usá-las para criar soluções de alta qualidade. <strong>embarcando em minha jornada como desenvolvedor Android</strong> , ansioso para aprender e crescer na área.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <a href="https://github.com/MMatteuss">
