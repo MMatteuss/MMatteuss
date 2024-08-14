@@ -1,7 +1,7 @@
-## Oi! Eu sou o Mateus Monteiro 👋
+##Oi! Eu sou o Mateus Monteiro 👋
 
 
-<p align="center">Eu amo resolver grandes desafios usando tecnologia. <br><br> Sou iniciante em desenvolvimento back-end, <strong>sou apaixonado por descobrir coisas novas </strong>e usá-las para criar soluções de alta qualidade. <strong>embarcando em minha jornada como desenvolvedor Android</strong> , ansioso para aprender e crescer na área.</p>&nbsp;
+<p align="center">Sou estudante de Desenvolvimento de Sistemas com experiência em <strong>C#, Kotlin, Java, Python e JavaScript</strong>. Apaixonado por desenvolvimento web e back-end, estou explorando tecnologias como <strong>Flask</strong>, <strong>HTML5</strong>, e <strong>CSS3</strong>. Além disso, tenho conhecimentos em <strong>PostgreSQL</strong> e <strong>MySQL</strong> e sou entusiasta de <strong>reparo de computadores</strong>. Estou embarcando em minha jornada como desenvolvedor e ansioso para aprender e criar soluções inovadoras. Vamos conectar!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <a href="https://github.com/MMatteuss">
