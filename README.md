@@ -38,6 +38,7 @@
 
 #### Bancos de dados:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/mySql-323330?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
 
 
 #### Ferramentas da estação de trabalho:
