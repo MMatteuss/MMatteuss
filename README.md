@@ -62,6 +62,6 @@
 <a href="https://www.linkedin.com/in/mmatteuss/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/oemodeti" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
