@@ -1,4 +1,4 @@
-## Oi! Eu sou o Mateus
+## Oi!
 
 <p align="center">Sou Técnico em Desenvolvimento de Sistemas no SENAC (2° período EAD)</strong>. Tenho experiência em <strong>C#, Kotlin, Java, Python</strong> e <strong>JavaScript</strong>, e sou apaixonado por desenvolvimento web e back-end, explorando tecnologias como <strong>Flask</strong>, <strong>HTML5</strong> e <strong>CSS3</strong>. Além disso, possuo conhecimentos em <strong>PostgreSQL</strong> e <strong>MySQL</strong>, e sou entusiasta de <strong>reparo de computadores</strong>. Estou embarcando em minha jornada como desenvolvedor e ansioso para aprender e criar soluções inovadoras. Vamos conectar!</p>&nbsp;
 
