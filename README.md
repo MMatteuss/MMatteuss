@@ -1,8 +1,8 @@
 ## Olá! 👋 Bem-vindo(a) ao meu perfil!
 
-Sou um **desenvolvedor** com paixão por construir soluções inovadoras. Minha jornada na área de tecnologia inclui experiência em **desenvolvimento web** e **back-end**, com um conhecimento sólido em diversas linguagens e tecnologias.
+Sou um **desenvolvedor**. Minha jornada na área de tecnologia inclui experiência em **desenvolvimento web** e **back-end**, com um conhecimento em diversas linguagens e tecnologias.
 
-🎓 Atualmente com o curso técnico em **Desenvolvimento de Sistemas** no **SENAC** (2° período EAD, Java) **PAUSADO**, sigo aprimorando minhas habilidades e explorando novas fronteiras no mundo da programação.
+🎓 Atualmente com o curso técnico em **Desenvolvimento de Sistemas** no **SENAC** estar **PAUSADO**, sigo aprimorando minhas habilidades e explorando novas fronteiras no mundo da programação.
 
 🛠️ Minha caixa de ferramentas inclui:
 
@@ -10,7 +10,7 @@ Sou um **desenvolvedor** com paixão por construir soluções inovadoras. Minha 
 **C#**, **Kotlin**, **Java**, **Python**, **JavaScript**
 
 **Desenvolvimento Web & Back-end:**
-**Flask** (Python), **HTML5**, **CSS3**
+**Flask** (Python), **HTML5**, **CSS3**, **SQL**
 
 **Bancos de Dados:**
 **PostgreSQL**, **MySQL**
