@@ -2,7 +2,7 @@
 
 Sou um **desenvolvedor**. Minha jornada na área de tecnologia inclui experiência em **desenvolvimento web** e **back-end**, com um conhecimento em diversas linguagens e tecnologias.
 
-🎓 Atualmente com o curso técnico em **Desenvolvimento de Sistemas** no **SENAC** estar **PAUSADO**, sigo aprimorando minhas habilidades e explorando novas fronteiras no mundo da programação.
+🎓 Atualmente com o curso técnico em **Desenvolvimento de Sistemas** no **SENAC** estar **incompleto**, sigo aprimorando minhas habilidades e explorando novas fronteiras no mundo da programação.
 
 🛠️ Minha caixa de ferramentas inclui:
 
