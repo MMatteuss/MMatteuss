@@ -1,16 +1,13 @@
 ## Olá! 👋 Bem-vindo(a) ao meu perfil!
 
 Sou um **desenvolvedor**. Minha jornada na área de tecnologia inclui experiência em **desenvolvimento web** e **back-end**, com um conhecimento em diversas linguagens e tecnologias.
-
-🎓 Atualmente com o curso técnico em **Desenvolvimento de Sistemas** no **SENAC** estar **incompleto**, sigo aprimorando minhas habilidades e explorando novas fronteiras no mundo da programação.
-
+<br><br>
 🛠️ Minha caixa de ferramentas inclui:
-
 **Linguagens de Programação:**
-**C#**, **Kotlin**, **Java**, **Python**, **JavaScript**
+**Java**, **Python**, **JavaScript**, **SQL**
 
 **Desenvolvimento Web & Back-end:**
-**Flask** (Python), **HTML5**, **CSS3**, **SQL**
+**Flask**, **HTML5**, **CSS3**, **SQL**
 
 **Bancos de Dados:**
 **PostgreSQL**, **MySQL**
@@ -44,11 +41,6 @@ Sou um **desenvolvedor**. Minha jornada na área de tecnologia inclui experiênc
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração de Computador">
 
-#### 📚 Estudando Atualmente:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C_Sharp-7c118f?style=for-the-badge&logo=CSharp&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 #### 💾 Bancos de Dados:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySql-323330?style=for-the-badge&logo=mysql&logoColor=blue)
@@ -57,7 +49,6 @@ Sou um **desenvolvedor**. Minha jornada na área de tecnologia inclui experiênc
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
