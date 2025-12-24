@@ -19,9 +19,11 @@ Sou um **desenvolvedor**. Minha jornada na área de tecnologia inclui experiênc
 ---
 
 <p align="center">
+  <!--
   <a href="https://github.com/MMatteuss">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=MMatteuss&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  </a>
+   </a> 
+  -->
   <a href="https://github.com/MMatteuss">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMatteuss&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
   </a>
